@@ -1,4 +1,4 @@
-# 📦 Aplikasi Daftar Produk (Fullstack Laravel + Vue)
+# 📦 Aplikasi Daftar Produk (Laravel + Vue)
 
 Project ini adalah aplikasi web sederhana untuk menampilkan daftar produk dengan fitur pencarian, pengurutan (sorting), dan pagination. Aplikasi ini dibangun menggunakan arsitektur **Decoupled** (Terpisah), di mana Laravel berperan sebagai Backend API dan Vue.js sebagai Frontend.
 
